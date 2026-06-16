@@ -6,7 +6,7 @@ The project includes informational pages, screenshots and a section dedicated to
 
 ## Project Purpose
 
-This project was created to practice HTML and CSS while building an educational website about Linux.
+This project was created to practice HTML, CSS and JavaScript while building an educational website about Linux.
 
 ## Pages
 
