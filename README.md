@@ -1,15 +1,23 @@
 # Linux-Site
-A site, with multiple HTML pages, created in the free time that brings together all the features of Linux with even a hint of the main languages, supported by this OS and with a video of Linus Torvald, the creator of Linux
-<hr>
 
-### HOMEPAGE
-<img src="images/Homepage.png" alt="Homepage LinuxSite">
+Multi-page static website created to present Linux concepts, features and related programming languages.
 
-### SUMMARY
-<img src="images/Summary.png" alt="Summary LinuxSite">
+The project includes informational pages, screenshots and a section dedicated to Linus Torvalds, the creator of Linux.
 
-### CONFERENCE
-<img src="images/Conferencing.png" alt="Conferencing Linux Torvals">
+## Pages
 
-### MY OPINION
-<img src="images/Opinion.png" alt="Your opinion">
+### Homepage
+
+<img src="images/Homepage.png" alt="Linux Site homepage">
+
+### Summary
+
+<img src="images/Summary.png" alt="Linux Site summary page">
+
+### Conference
+
+<img src="images/Conferencing.png" alt="Linus Torvalds conference page">
+
+### Opinion
+
+<img src="images/Opinion.png" alt="Opinion page">
